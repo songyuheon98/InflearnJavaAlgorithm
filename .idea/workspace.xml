@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9de73b6c-dd55-4866-a09d-7fe98eb560f4" name="변경" comment="과일 가져가기">
-      <change afterPath="$PROJECT_DIR$/src/SaffySolution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sol1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sol2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sol3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sol4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sol5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lv2_Sol20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,37 +64,37 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Sol4">
-    <configuration name="Fruit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fruit" />
+  <component name="RunManager" selected="Application.Lv2_Sol20">
+    <configuration name="Lv2_Sol20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Sol20" />
       <module name="playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sol1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sol1" />
+    <configuration name="Sol16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sol16" />
       <module name="playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sol2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sol2" />
+    <configuration name="Sol17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sol17" />
       <module name="playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sol3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sol3" />
+    <configuration name="Sol19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sol19" />
       <module name="playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sol4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sol4" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sol4" />
-        <item itemvalue="Application.Sol3" />
-        <item itemvalue="Application.Sol2" />
-        <item itemvalue="Application.Sol1" />
-        <item itemvalue="Application.Fruit" />
+        <item itemvalue="Application.Lv2_Sol20" />
+        <item itemvalue="Application.Sol19" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Sol17" />
+        <item itemvalue="Application.Sol16" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +164,10 @@
       <workItem from="1698761999482" duration="383000" />
       <workItem from="1698762408345" duration="2705000" />
       <workItem from="1698797119591" duration="21000" />
+      <workItem from="1698797150886" duration="128000" />
+      <workItem from="1698804982341" duration="275000" />
+      <workItem from="1698840126303" duration="10366000" />
+      <workItem from="1698888239410" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <option name="closed" value="true" />
@@ -249,6 +262,36 @@
           <url>file://$PROJECT_DIR$/src/Sol3.java</url>
           <line>39</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sol12.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sol13.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sol14.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sol15.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lv2_Sol20.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lv2_Sol20.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
