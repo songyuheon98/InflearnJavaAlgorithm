@@ -35,35 +35,32 @@ import java.io.FileInputStream;
  */
 class Sol29 {
     public static void main(String args[]) throws Exception {
-
         Scanner sc = new Scanner(System.in);
         int T;
         T = sc.nextInt();
         sc.nextLine();
 
-        int directionRow[] = {0, 1, 0, -1};
-        int directionCol[] = {1, 0, -1, 0};
-
+        int dRow[] = {0, 1, 0, -1};
+        int dCol[] = {1, 0, -1, 0};
 
         for (int test_case = 1; test_case <= T; test_case++) {
-            int currentLocation[] = new int[2];
-            int currentTempLocation[] = new int[2];
+            int x=0,y = 0;
             int n = Integer.parseInt(sc.nextLine());
             int[][] nToN = new int[n][n];
             int d = 0;
             System.out.println("#"+test_case);
-            for (int i = 0; i < n * n; i++) {
-                if((currentLocation[0]==0||currentLocation[0]==n-1)&&(currentLocation[1]==0||currentLocation[1]==n-1)&&i!=0) {
-                    d++;
-                    d%=4;
-                } else if (nToN[currentLocation[0]+directionRow[d]][currentLocation[1]+directionCol[d]]!=0&&i!=0) {
-                    d++;
-                    d%=4;
-                }
-                nToN[currentLocation[0]][currentLocation[1]] = i;
-                currentLocation[0]+=directionRow[d];
-                currentLocation[1]+=directionCol[d];
+            for (int i = 1; i <= n * n; i++) {
+                nToN[x][y] = i;
+                int dx =x+ dRow[d];
+                int dy = y+dCol[d];
 
+                if(dx<0||dx>=n||dy<0||dy>=n||nToN[dx][dy]!=0) {
+                    d = (d + 1) % 4;
+                    dx=x+dRow[d];
+                    dy=y+dCol[d];
+                }
+                x=dx;
+                y=dy;
             }
             for (int i = 0; i < n; i++) {
                 for (int j = 0; j < n; j++) {
