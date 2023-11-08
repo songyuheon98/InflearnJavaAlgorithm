@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9de73b6c-dd55-4866-a09d-7fe98eb560f4" name="변경" comment="알고리즘 23/11/04">
-      <change afterPath="$PROJECT_DIR$/src/Sol33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sol34.java" afterDir="false" />
+    <list default="true" id="9de73b6c-dd55-4866-a09d-7fe98eb560f4" name="변경" comment="알고리즘 23/11/06">
+      <change afterPath="$PROJECT_DIR$/src/Sol35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sol36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sol34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sol34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/hanghae/inflearn/inflearnDocker&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/hanghae/inflearn/elasticSearch&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,22 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sol28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sol28" />
-      <module name="playGround" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sol29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sol29" />
-      <module name="playGround" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sol32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sol32" />
+      <module name="playGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sol34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sol34" />
+      <module name="playGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sol35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sol35" />
       <module name="playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sol32" />
+        <item itemvalue="Application.Sol35" />
+        <item itemvalue="Application.Sol34" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Sol32" />
         <item itemvalue="Application.Sol25" />
-        <item itemvalue="Application.Sol29" />
-        <item itemvalue="Application.Sol28" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +169,11 @@
       <workItem from="1699232634233" duration="8000" />
       <workItem from="1699232652867" duration="611000" />
       <workItem from="1699235755608" duration="25000" />
-      <workItem from="1699278954804" duration="3051000" />
+      <workItem from="1699278954804" duration="3270000" />
+      <workItem from="1699363281481" duration="113000" />
+      <workItem from="1699363448246" duration="3942000" />
+      <workItem from="1699409428757" duration="33000" />
+      <workItem from="1699454355583" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <option name="closed" value="true" />
@@ -218,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699196097532</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="알고리즘 23/11/06">
+      <option name="closed" value="true" />
+      <created>1699282219565</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699282219565</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +254,8 @@
     <MESSAGE value="알고리즘 23/11/01" />
     <MESSAGE value="알고리즘 23/11/03" />
     <MESSAGE value="알고리즘 23/11/04" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 23/11/04" />
+    <MESSAGE value="알고리즘 23/11/06" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 23/11/06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
