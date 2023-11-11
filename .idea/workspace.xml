@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9de73b6c-dd55-4866-a09d-7fe98eb560f4" name="변경" comment="알고리즘 23/11/06">
-      <change afterPath="$PROJECT_DIR$/src/Sol35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sol36.java" afterDir="false" />
+    <list default="true" id="9de73b6c-dd55-4866-a09d-7fe98eb560f4" name="변경" comment="알고리즘 23/11/07">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sol34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sol34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Sol25">
     <configuration name="Sol25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sol25" />
       <module name="playGround" />
@@ -173,7 +170,9 @@
       <workItem from="1699363281481" duration="113000" />
       <workItem from="1699363448246" duration="3942000" />
       <workItem from="1699409428757" duration="33000" />
-      <workItem from="1699454355583" duration="676000" />
+      <workItem from="1699454355583" duration="714000" />
+      <workItem from="1699492282706" duration="614000" />
+      <workItem from="1699591094932" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <option name="closed" value="true" />
@@ -231,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699282219565</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="알고리즘 23/11/07">
+      <option name="closed" value="true" />
+      <created>1699455046841</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699455046841</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +262,8 @@
     <MESSAGE value="알고리즘 23/11/03" />
     <MESSAGE value="알고리즘 23/11/04" />
     <MESSAGE value="알고리즘 23/11/06" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 23/11/06" />
+    <MESSAGE value="알고리즘 23/11/07" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 23/11/07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
