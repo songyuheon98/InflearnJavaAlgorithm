@@ -3,7 +3,7 @@ import java.io.FileInputStream;
 
 import java.util.Scanner;
 
-class Solution {
+class Sol39 {
     public static void main(String args[]) throws Exception {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
