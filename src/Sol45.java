@@ -29,6 +29,7 @@ class Sol45
             int result =0;
             while(!numList.isEmpty()) {
 
+
                 int first = numList.get(0);
                 numList.remove(0);
                 result+=first;
