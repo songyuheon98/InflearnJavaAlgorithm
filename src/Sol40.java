@@ -6,12 +6,8 @@ import java.util.*;
 
 class Sol40
 {
-
     public static void main(String args[]) throws Exception
     {
-
-
-
         Scanner sc = new Scanner(System.in);
         int T=10;
 
