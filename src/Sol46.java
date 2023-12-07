@@ -51,6 +51,8 @@ class Sol46 {
         System.out.println(T.solution(54312));
     }
 }
+
+
 //import java.util.Arrays;
 //
 //public class Sol46 {
