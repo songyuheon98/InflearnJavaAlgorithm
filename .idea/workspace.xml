@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9de73b6c-dd55-4866-a09d-7fe98eb560f4" name="변경" comment="알고리즘 23/12/12" />
+    <list default="true" id="9de73b6c-dd55-4866-a09d-7fe98eb560f4" name="변경" comment="알고리즘 23/12/13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,6 +196,7 @@
       <workItem from="1701954354917" duration="1219000" />
       <workItem from="1702106051080" duration="16000" />
       <workItem from="1702381628614" duration="1070000" />
+      <workItem from="1702469845725" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <option name="closed" value="true" />
@@ -429,7 +430,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702382093188</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="알고리즘 23/12/13">
+      <option name="closed" value="true" />
+      <created>1702469894294</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1702469894294</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,7 +477,8 @@
     <MESSAGE value="알고리즘 23/12/07" />
     <MESSAGE value="알고리즘 23/12/09" />
     <MESSAGE value="알고리즘 23/12/12" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 23/12/12" />
+    <MESSAGE value="알고리즘 23/12/13" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 23/12/13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

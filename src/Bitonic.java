@@ -17,6 +17,9 @@ class Bitonic {
                 d=0;
             }
 
+
+
+
             if(pre_d == 0 )
                 pre_d = d;
 
